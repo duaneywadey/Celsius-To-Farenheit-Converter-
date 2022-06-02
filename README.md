@@ -1,5 +1,5 @@
 # Celsius-To-Farenheit-Converter-
-A web application that can allow you to convert Celsius to Farenheit and vice versa. 
+A web application that can allow you to convert Celsius to Farenheit, Kelvin to Celsius, and Kelvin to Fahrenheit. 
 
 https://duaneywadey.github.io/Celsius-To-Farenheit-Converter-/
 
